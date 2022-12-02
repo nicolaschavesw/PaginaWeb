@@ -16,7 +16,7 @@
         <!-- <a href="#" class="encabezado__pagina__menu__logopagina"> 
                 logo de la pagina
             </a>-->
-            <img alt="logo" src="@/assets/logo.png">
+            <img alt="viveshops1" src="@/assets/viveshops1.png">
         </div>
         <div class="encabezado__pagina__busqueda">
             <button type="submit" class="buscar"><img alt= "lupa" src="@/assets/lupita.png">
@@ -113,6 +113,12 @@ export default {
     .encabezado__pagina__logo {
         width: 20%;
         height: 20%;
+    }
+
+    .viveshops1 img {
+        
+        height: 10px;
+        width: 10px;
     }
 
     .encabezado__pagina__busqueda {
